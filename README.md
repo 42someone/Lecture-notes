@@ -1,1 +1,2 @@
-# Notes
+# This repository will serve my experience in programming, investigations I make during my professional life with practical examples and situations base on real cases.
+### || The structure of the repo will be structured soon making it comfortable for all to read, learn and review what we learnt
